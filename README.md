@@ -1,7 +1,14 @@
 # Discrete-Slider
 
 Jetpack Compose discrete slider (seekbar) widget implementation with customisable tick marks.
-![screen-gif](./sample.gif)
+
+<p align="center">
+<img style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+           src="./sample.gif"/>
+    </p>
 
 ## Setup
 
