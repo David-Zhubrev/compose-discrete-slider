@@ -1,3 +1,5 @@
+# This repository is no longer maintained, as Jetpack Compose Material3 library provides this functionality out of the box
+
 # Discrete-Slider
 
 Jetpack Compose discrete slider (seekbar) widget implementation with customisable tick marks.
